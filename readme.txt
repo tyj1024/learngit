@@ -5,3 +5,4 @@ Git tracks changes
 Git test hahaha
 Git test 123456
 Git test dev
+Creating a new branch is quick & simple.
